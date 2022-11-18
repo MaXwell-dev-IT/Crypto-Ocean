@@ -1,0 +1,159 @@
+:root{
+    --mainColor:#08526d;
+    --secondMainColor:white;
+}
+.navbar-brand span{
+   font-weight: bolder; 
+   font-size: 50px; 
+   color:var(--secondMainColor,white);
+}
+.navbar-brand h6{
+   font-size:9px;
+   margin-top: -18px;
+   font-weight: bold;
+   color:var(--secondMainColor,white);
+}
+.navbar-nav select{
+   font-size: 20px;
+   background-color: var(--mainColor,#08526d);
+   border:none;
+   color:var(--secondMainColor,white);
+}
+.navbar-nav select:focus{
+   outline: none;
+}
+.navbar-nav select option{
+   background-color: var(--secondMainColor,white);
+   color: var(--mainColor,#08526d);
+}
+.navbar{
+   background-color: var(--mainColor,#08526d);
+}
+.navbar-light .navbar-nav .show > 
+.nav-link, .navbar-light .navbar-nav .active >
+.nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active{
+    color:var(--secondMainColor,white);
+}
+.navbar-light .navbar-nav .nav-link {
+   color:var(--secondMainColor,white);
+   transition: 0.5s ease;
+  font-size:20px;
+}
+.dropdown-menu{
+   background-color: #08526d;
+   color: var(--secondMainColor);
+   font-size: 20px;
+}
+.dropdown-menu li{
+   text-decoration: none;
+   color: white;
+   text-indent: 10px;
+   cursor: pointer;
+   transition: 0.5s ease-in-out;
+}
+.dropdown-toggle:active{
+ padding: 0px;
+ margin: 0px;}
+.dropdown-menu{
+   border: none;
+}
+.dropdown-menu li:hover{
+   background-color: var(--secondMainColor);
+   color:var(--mainColor);
+   padding-left: 10px;
+   transition: 0.5s ease-in-out;
+}
+.dropdown{
+   margin-top: 10px;
+   margin-left:0px;
+}
+.dropdown a{
+   font-size: 20px;
+   color: var(--secondMainColor);
+   text-decoration: none;
+}
+@media screen and (max-width:991px) {
+.navbar-light .navbar-nav .nav-link:hover{
+   color:white;
+   margin-left: 10px;
+   transition: 0.5s ease-in-out;
+}
+}
+@media screen and (min-width:992px) {
+   .navbar-light .navbar-nav .nav-link:hover{
+       color:white;
+       margin-top: -10px;
+       transition: 0.5s ease-in-out;
+   }
+}
+.breadcrumb-nav .breadcrumb{
+    background-color: var(--secondMainColor);
+}
+.breadcrumb-item a{
+    text-decoration: none;
+}
+.offical-course h2{
+   margin-bottom: 50px;
+   color: var(--mainColor);
+}
+.offical-course p{
+   text-align: center;
+   font-size: 20px;
+   margin-bottom: 30px;
+}
+img {
+  float: right;
+}
+.text-left p{
+	text-align: left;
+	font-size: 20px;
+margin-left: 10px;}
+	.text-right p{
+	text-align: right;
+		font-family: sans;
+	font-size: 20px;
+	margin-left: 10px;}
+.card{
+   margin-bottom: 20px;
+}
+.card-body .btn-primary{
+  background-color: var(--mainColor);
+  border: none;
+  margin-bottom: 10px;
+}
+.footer{
+   background-color: var(--mainColor);
+   margin-top: 100px;
+}
+.footer .segment{
+   margin-bottom: 20px;
+}
+.footer .segment h3{
+   color: var(--secondMainColor);
+   font-size: 20px;
+   text-transform: uppercase;
+   margin-top: 20px;
+}
+.footer .segment a{
+  text-decoration: none;
+  color: var(--secondMainColor);
+  font-size: 20px;
+}
+.footer .segment a :hover{
+   color: aqua;
+}
+.footer .segment a .fa-facebook{
+   margin-right: 10px;
+}
+.footer .segment a .fa-envelope{
+   margin-left: 34px;
+}
+.upper-segment .navbar-brand{
+ margin-bottom: 50px;
+}
+
+
+.offical-course ol li{
+   font-size: 17px;
+   color:var(--mainColor);
+}
