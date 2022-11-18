@@ -41,7 +41,7 @@ window.onscroll = function(){
  };
 //search for course
  
-  let courses =["ALADIN Bet" , "WCT S2" , "Educational videos" , "ERA7 WCT S1" ,"Arab Cup 22","","",""];
+  let courses =["ALADIN Bet" , "WCT S2" , "Educational videos" , "ERA7 WCT S1" ,"Arab Cup 22","IMe Messenger & Crypto Wallet","",""];
   function searchfunction() {
 
     let ulmenu = document.getElementById("myUL");
