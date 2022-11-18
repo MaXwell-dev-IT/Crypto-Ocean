@@ -20,7 +20,7 @@ trans.onclick =()=>{
    let k = document.getElementById("translate_h3");
    k.textContent ="مجتمعاتنا";
    k.style.fontFamily="Changa","sans-serif";
-   document.getElementById("translate_p1").textContent ="Crypto Ocean | Community";
+   document.getElementById("translate_p1").textContent ="";
    let r= document.getElementById("translate_h3_1");
    r.textContent ="تابعنا على تويتر";
    r.style.fontFamily="Changa","sans-serif";
