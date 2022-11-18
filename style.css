@@ -365,7 +365,10 @@ body{
    margin-right: 10px;
 }
 .footer .segment a .fa-envelope{
-   margin-left: 34px;
+   margin-left: 10px;
+}
+.footer .segment a .fa-telegram{
+   margin-left: 10px;
 }
 .upper-segment .navbar-brand{
  margin-bottom: 50px;
