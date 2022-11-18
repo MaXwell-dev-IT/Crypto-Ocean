@@ -143,17 +143,17 @@ img {
 .footer .segment a :hover{
    color: aqua;
 }
-.footer .segment a .fa-youtube
+.footer .segment a .fa-twitter{
    margin-right: 10px;
 }
 .footer .segment a .fa-envelope{
-   margin-left: 10px
-}
-.footer .segment a .fa-twitter{
-   margin-left: 10px
+   margin-right: 10px;
 }
 .footer .segment a .fa-telegram{
-   margin-left: 10px
+   margin-right: 10px;
+}
+.footer .segment a .fa-youtube{
+   margin-right: 10px;
 }
 .upper-segment .navbar-brand{
  margin-bottom: 50px;
