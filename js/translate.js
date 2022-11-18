@@ -11,7 +11,7 @@ trans.onclick =()=>{
    h.style.fontFamily="Changa","sans-serif";
    document.getElementById("translate_p").textContent = "ابدأ رحلتك معنا";
    let a = document.getElementById("searchAria");
-       a.setAttribute("placeholder","           اكتب اسم المقالة باللغة بالانكليزية واضغط على زر البحث");
+       a.setAttribute("placeholder","         اكتب عنوان المقالة بالانكليزية واضغط ايقونةالبحث ");
    document.getElementById("translate_btn").textContent ="المزيد";
    //services translate
    let j = document.getElementById("translate_h2");
@@ -20,7 +20,7 @@ trans.onclick =()=>{
    let k = document.getElementById("translate_h3");
    k.textContent ="مجتمعاتنا";
    k.style.fontFamily="Changa","sans-serif";
-   document.getElementById("translate_p1").textContent ="";
+   document.getElementById("translate_p1").textContent ="Crypto Ocean | Community";
    let r= document.getElementById("translate_h3_1");
    r.textContent ="تابعنا على تويتر";
    r.style.fontFamily="Changa","sans-serif";
