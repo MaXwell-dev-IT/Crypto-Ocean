@@ -54,8 +54,8 @@ trans.onclick =()=>{
    }
    document.getElementById("translate_h5_1").textContent ="كأس العالم الموسم الأول";
    document.getElementById("translate_h5_2").textContent ="كأس العرب";
-   document.getElementById("translate_h5_3").textContent ="علاء الدين للرهان";
-   document.getElementById("translate_h5_4").textContent ="كأس العالم الموسم الثاني";
+   document.getElementById("translate_h5_3").textContent ="كأس العالم الموسم الثاني";
+   document.getElementById("translate_h5_4").textContent ="تطبيق محادثة ومحفظة كريبتو iMe";
    document.getElementById("translate_h5_5").textContent ="!!قريبا";
    document.getElementById("translate_h5_6").textContent ="!!قريبا";
    document.getElementById("translate_h5_7").textContent ="!!قريبا";
