@@ -26,7 +26,7 @@ trans.onclick =()=>{
    r.style.fontFamily="Changa","sans-serif";
    document.getElementById("translate_p2").textContent ="";
    let e = document.getElementById("translate_h3_2");
-   e.textContent ="الدروس";
+   e.textContent ="خدمات المشاريع";
    e.style.fontFamily="Changa","sans-serif";
    document.getElementById("translate_p3").textContent ="تحتوي هذه الدورات التدريبية على خطة رائعة لتعلم التشفير بأفضل طريقة!";
    let q =document.getElementById("translate_h3_3");
