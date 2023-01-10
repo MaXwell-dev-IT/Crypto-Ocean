@@ -57,7 +57,7 @@ trans.onclick =()=>{
    document.getElementById("translate_h5_3").textContent ="كأس العالم الموسم الثاني";
    document.getElementById("translate_h5_4").textContent ="تطبيق محادثة ومحفظة كريبتو iMe";
    document.getElementById("translate_h5_5").textContent ="عالم ماس";
-   document.getElementById("translate_h5_6").textContent ="تطبيق iMe وشبكة TON";
+   document.getElementById("translate_h5_6").textContent ="TON وشبكة iMe تطبيق";
    document.getElementById("translate_h5_7").textContent ="!!قريبا";
    //student comments translate
    let m =document.getElementById("translate_h2_3");
