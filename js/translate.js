@@ -58,7 +58,7 @@ trans.onclick =()=>{
    document.getElementById("translate_h5_4").textContent ="تطبيق محادثة ومحفظة كريبتو iMe";
    document.getElementById("translate_h5_5").textContent ="عالم ماس";
    document.getElementById("translate_h5_6").textContent ="TON وشبكة iMe تطبيق";
-   document.getElementById("translate_h5_7").textContent ="!!قريبا";
+   document.getElementById("translate_h5_7").textContent ="iMe تطبيق ";
    //student comments translate
    let m =document.getElementById("translate_h2_3");
    m.textContent="المراجعات";
